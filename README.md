@@ -12,7 +12,7 @@ Após preencher os campos corretamente, basta clicar no botão "Acessar". O sist
 # MANUAL - TELA HOME
 Após realizar o login, o usuário será redirecionado para a tela inicial (Home), onde encontrará as opções: "Lições", "Exercícios" e "Frases Úteis". Para começar a aprender o conteúdo, o usuário deve clicar na opção "Lições".
 
-(imagens/C:\Users\Devmat\Downloads\Captura de tela 2025-02-19 093246.jpg).
+![imagem](TELALHOME.png)..
 
 # MANUAL - TELA LIÇÃO
 Na tela de Lições, o usuário encontrará quatro opções: "Restaurante", "Hospedagem", "Transporte" e "Dinheiro". Assim que a tela for carregada, será exibida uma imagem no canto superior direito, acompanhada de duas frases: uma em inglês e outra em português.
@@ -20,10 +20,14 @@ O usuário deve clicar no botão "Play" para ouvir a pronúncia das frases e com
 Quando finalizar esse, deverá clicar na opção correspondente no menu superior (onde estão as opções "Restaurante", "Hospedagem", "Transporte" e "Dinheiro") para acessar a próxima lição.
 Por exemplo, se iniciou em "Restaurante" e agora deseja ir para "Hospedagem", basta clicar em "Hospedagem" para começar a nova lição, e assim sucessivamente até terminar.
 
-(imagens/C:\Users\Devmat\Downloads\Captura de tela 2025-02-19 093246.jpg).
+![imagem](TELALICAO.png).
 
 # MANUAL - TELA EXERCÍCIOS
 TELA EM DESENVOLVIMENTO - Esta funcionalidade ainda está em desenvolvimento e estará disponível em versões futuras
 
+![imagem](TELAEXERCICIO.png).
+
 # MANUAL - TELA FRASES PRONTAS 
 TELA EM DESENVIMENTO - Esta funcionalidade ainda está em desenvolvimento e estará disponível em versões futuras
+
+![imagem](TELAFP.png).
